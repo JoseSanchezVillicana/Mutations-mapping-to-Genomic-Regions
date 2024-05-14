@@ -33,14 +33,14 @@ Resulta relevante analizar un poco más detenidamente el cromosoma X, porque ade
 
 La conservación de la tendencia con los demás cromosomas autosómicas puede explicarse con el hecho de que se tiene mucho mejor estudiado el cromosoma X que el cromosoma Y. Gracias a que la secuencia de este cromosoma lleva disponible bastante más tiempo que su contraparte, hay más estudios relacionando mutaciones a enfermedades y a su vez encontrándolas en el cromosoma. También es el posible motivo de la mejor anotación de su secuencia. 
 
-![chr y](./results/x.png)
+![chr x](./results/X.png)
 _Figura 2: mutaciones mendelianas en el cromosoma sexual X._
 
 ### Análisis cromosoma mitocondrial
 
 Es interesante señalar que el cromosoma mitocondrial sale de la tendencia general de varias maneras, pero sobresalta el aparente disparo del margen de error aquí. Como ya se mencionó, este error de mapeo puede deberse a un error en la metodología. También puede deberse a un error en la forma en la que estas regiones genómicas se definen en este estudio o en el mismo genoma de referencia, teniendo muchos sobrelapes de regiones e inconsistencias que puedan facilitar la definición conceptual de las mismas. Es probable que este cromosoma tenga muchas de estas características que provocan al algoritmo equivocarse y no poder determinar una región intragénica correctamente. Sería interesante analizar con mayor detenimiento la anotación de este cromosoma para detectar áreas de oportunidad de mejora para la metodología presentada en este análisis.
 
-![chr mt](./results/mt.png)
+![chr mt](./results/MT.png)
 _Figura 3: mutaciones mendelianas en el cromosoma mitocondrial._
 
 ## Conclusiones
